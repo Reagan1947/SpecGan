@@ -26,7 +26,7 @@ _SpecGan 是一个基于频谱图的GAN网络结构
 
 `python prepare_data.py pack_features --workspace=./workspace/ --n_concat=7 --n_hop=3`
 
-其中`n_concat`为语音切段数目，`n_hop`为跳帧 ref：https://www.npmjs.com/package/frame-hop
+其中`n_concat`为语音切段数目，`n_hop`为跳帧 Ref:https://www.npmjs.com/package/frame-hop
 
 **4). 计算scaler**
 
