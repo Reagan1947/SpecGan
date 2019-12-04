@@ -24,7 +24,13 @@ _SpecGan 是一个基于频谱图的GAN网络结构
 
 **3). 打包特征数据**
 
-`python prepare_data.py pack_features --workspace=./workspace/ --snr=0 --n_concat=7 --n_hop=3`
+`python prepare_data.py pack_features --workspace=./workspace/ --n_concat=7 --n_hop=3`
+
+其中`n_concat`为语音切断数目，`n_hop`为
+
+**4). 计算scaler**
+
+`python prepare_data.py compute_scaler --workspace=./workspace/`
 
 ## 1.3 GAN网络训练
 
