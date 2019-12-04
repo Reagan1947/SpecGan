@@ -6,7 +6,7 @@ _SpecGan 是一个基于频谱图的GAN网络结构
 
 ## 1.1 配置config.py
 
-通过config.py可配置：
+通过`config.py`可配置：
 
 - sample_rate
 - n_windows: Windows size for FFT
