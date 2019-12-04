@@ -38,14 +38,14 @@ _SpecGan 是一个基于频谱图的GAN网络结构
 
 ## 1.4 Genrator与Dicriminator的提取
 
-## 1.5 参考代码
+# 2 参考代码
 
 _SpecGan基于以下项目开发: 
 
 - Sednn: https://github.com/yongxuUSTC/sednn
 - The implementation of Improved Wasserstein GAN proposed in https://arxiv.org/abs/1704.00028 was based on a keras implementation.
 
-## 1.6 数据分析
+# 3 数据分析
 
 感谢开源软件Sonicvisualiser提供了音频数据分析工具
 - Sonicvisualiser: https://www.sonicvisualiser.org/
