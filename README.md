@@ -43,7 +43,6 @@ _SpecGan 是一个基于频谱图的GAN网络结构
 _SpecGan基于以下项目开发: 
 
 - Sednn: https://github.com/yongxuUSTC/sednn
-- The implementation of Improved Wasserstein GAN proposed in https://arxiv.org/abs/1704.00028 was based on a keras implementation.
 
 # 3 数据分析
 
