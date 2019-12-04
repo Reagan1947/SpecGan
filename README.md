@@ -34,6 +34,8 @@ _SpecGan 是一个基于频谱图的GAN网络结构
 
 ## 1.3 GAN网络训练
 
+`python train_specgan.py train --workpace=./workspace/`
+
 ## 1.4 Genrator与Dicriminator的提取
 
 ## 1.5 参考代码
