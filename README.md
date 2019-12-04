@@ -36,3 +36,8 @@ _SpecGan基于以下项目开发:
 
 - Sednn: https://github.com/yongxuUSTC/sednn
 - SpecGan: https://github.com/naotokui/SpecGAN
+
+## 1.6 数据分析
+
+感谢开源软件Sonicvisualiser提供了音频数据分析工具
+- Sonicvisualiser: https://www.sonicvisualiser.org/
