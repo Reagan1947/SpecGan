@@ -35,5 +35,4 @@ _SpecGan 是一个基于频谱图的GAN网络结构
 _SpecGan基于以下项目开发: 
 
 - Sednn: https://github.com/yongxuUSTC/sednn
-- WaveGan: https://github.com/chrisdonahue/wavegan
-
+- SpecGan: https://github.com/naotokui/SpecGAN
