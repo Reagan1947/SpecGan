@@ -1,4 +1,4 @@
-# _SpecGan
+# _SpecGan 基于Spec的Gan网络实现
 
 _SpecGan 是一个基于频谱图的GAN网络结构
 
