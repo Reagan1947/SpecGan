@@ -16,13 +16,24 @@ _SpecGan 是一个基于频谱图的GAN网络结构
 
 **1). 创建CSV文件**
 
-`python train_specgan.py create_csv --workspace ./workspace/ --speech_dir ./speech_wav/`
+`python preapare_data.py create_csv --workspace ./workspace/ --speech_dir ./speech_wav/`
 
 **2). 计算功率图谱**
 
-`python train_specgan.py calculate_features --workspace ./workspace/ --speech_dir ./speech_wav/ --snr=0`
+`python preapare_data.py calculate_features --workspace ./workspace/ --speech_dir ./speech_wav/ --snr=0`
 
 **3). 打包特征数据**
 
-`python train_specgan.py pack_features --workspace=./workspace/ --snr=0 --n_concat=7 --n_hop=3`
+`python prepare_data.py pack_features --workspace=./workspace/ --snr=0 --n_concat=7 --n_hop=3`
+
+## 1.3 GAN网络训练
+
+## 1.4 Genrator与Dicriminator的提取
+
+## 1.5 参考代码
+
+_SpecGan基于以下项目开发: 
+
+- Sednn: https://github.com/yongxuUSTC/sednn
+- WaveGan: https://github.com/chrisdonahue/wavegan
 
