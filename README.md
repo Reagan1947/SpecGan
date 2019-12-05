@@ -1,6 +1,6 @@
-# SpecGan 基于Spec的Gan网络实现
+# SpecGan 
 
-SpecGan 是一个基于频谱图的GAN网络结构
+SpecGan是为Discriminator Loss Speech Enhancement项目训练Discriminator的基础项目。本项目希望通过Spectrum信息训练一个GAN神经网络，从而可以实现使用Generator生成语音等一系列DLSE项目需求。
 
 # 1.如何使用
 
@@ -46,5 +46,5 @@ SpecGan基于以下项目开发:
 
 # 3 数据分析
 
-感谢开源软件Sonicvisualiser提供了音频数据分析工具
+理论数据分析由Sonicvisualiser这款开源软件完成
 - Sonicvisualiser: https://www.sonicvisualiser.org/
