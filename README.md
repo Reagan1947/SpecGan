@@ -1,6 +1,6 @@
-# _SpecGan 基于Spec的Gan网络实现
+# SpecGan 基于Spec的Gan网络实现
 
-_SpecGan 是一个基于频谱图的GAN网络结构
+SpecGan 是一个基于频谱图的GAN网络结构
 
 # 1.如何使用
 
@@ -40,7 +40,7 @@ _SpecGan 是一个基于频谱图的GAN网络结构
 
 # 2 参考代码
 
-_SpecGan基于以下项目开发: 
+SpecGan基于以下项目开发: 
 
 - Sednn: https://github.com/yongxuUSTC/sednn
 
